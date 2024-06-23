@@ -8,10 +8,6 @@
 
 - The code's modularity, utilizing PyTorch's DataLoader for efficient batch processing and GPU acceleration if available. Visualization tools such as matplotlib and seaborn aid in understanding dataset characteristics and model performance. Overall, it provides a robust framework for training and deploying a deep learning model for binary image classification tasks.
 
-# Contributors
-- S.Dinesh Kumar
-- Y.Gokul
-### Panimalar Engineering College Chennai
 ## References:
 https://www.geeksforgeeks.org/cat-dog-classification-using-convolutional-neural-network-in-python/
 https://pytorch.org/vision/stable/index.html
